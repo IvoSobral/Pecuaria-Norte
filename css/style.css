@@ -87,3 +87,9 @@ button{
     padding: 10px 20px;
     cursor: pointer;
 }
+
+campo-formulario {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
